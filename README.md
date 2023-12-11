@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:863dc26d1100167503bae8b291dd8842f3f2e4ff3990fe8de244a2c666e984dd
-size 81
+# Assignment_5
+A repository to store and share all project files for Assignment 5. 
+
+All files required for the script workflow have been uploaded. Please copy all required files into your working directory for downstream analysis.
+The sample metadata file created for the ggpicrust2 workflow was written out into a .tsv file and also uploaded in case of any technical issues. 
+
+Files were uploaded from local storage to repository using Git LFS.  
